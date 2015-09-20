@@ -1,7 +1,7 @@
-﻿using System;
+﻿using IndusValley.Banking;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using IndusValley.Banking;
-using Types;
+using SE.Money;
+using System;
 using System.Threading;
 
 namespace IndusValley.Tests {

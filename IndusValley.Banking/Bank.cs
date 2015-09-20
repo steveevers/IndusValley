@@ -1,8 +1,8 @@
-﻿using System;
+﻿using SE.Money;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Types;
 
 namespace IndusValley.Banking {
     public class Bank {
