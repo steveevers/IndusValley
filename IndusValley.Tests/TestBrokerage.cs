@@ -1,13 +1,13 @@
-﻿using IndusValley.Broker;
+﻿using IndusValley.Banking;
+using IndusValley.Broker;
+using SE.Miscellaneous;
+using SE.Money;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reactive.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using IndusValley.Banking;
-using Types;
-using System.Reactive.Linq;
-using Miscellaneous;
 
 namespace IndusValley.Tests {
     public class TestOrder : IOrder {
