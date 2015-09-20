@@ -1,12 +1,12 @@
 ﻿using IndusValley.Banking;
+using SE.Miscellaneous;
+using SE.Money;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reactive.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Types;
-using Miscellaneous;
 
 namespace IndusValley.Broker {
     public class Brokerage : IBroker {
